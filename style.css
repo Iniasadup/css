@@ -105,7 +105,7 @@ article {
 }
 
 .side-links {
-    /* background-color: blue; */
+     background-color: blue; 
     /* width: 33%; */
 }
 
@@ -209,7 +209,7 @@ footer {
         flex-direction: column;
     }
     .side-links{
-        flex-direction: ;
+        flex-direction:column;
     }
 }
 
